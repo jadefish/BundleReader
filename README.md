@@ -1,3 +1,3 @@
 # BundleReader
 
-BundleReader is an inspector for macOS .app bundles.
+BundleReader is a Windows inspector for macOS .app bundles.
